@@ -1,0 +1,26 @@
+{
+  "name": "g21-kiui-xinyi",
+  "version": "1.0.0",
+  "description": "An immersive virtual reality game development project that pushes the boundaries of interactive gaming experiences, offering players an unprecedented level of realism and engagement.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jiv9991vm/20-1.git"
+  },
+  "keywords": [
+    "sample",
+    "npm",
+    "package"
+  ],
+  "author": "jiv9991vm",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "axios": "^0.21.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  }
+}
